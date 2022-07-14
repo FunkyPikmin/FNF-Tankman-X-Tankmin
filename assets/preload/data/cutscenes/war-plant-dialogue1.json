@@ -1,0 +1,349 @@
+{
+    "type": "dialogue",
+    "dialogueBox": "tankmin/tankBox",
+    "cutsceneAfter": "war-plant-dialogue2",
+    "dialogueBoxSize": 6,
+    "dialogueMusic": "peculiar-plant",
+    "dialogueSections": [
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_happy",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Well, well, well. What do we have here?",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_neutral",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "I'm the Tankmin. I've come here to apply for being a recruit.",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Hah! Yeah, right!",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_mean",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "And what makes you think a little pip squeak like you could join the army and fight with the likes of us?",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Hah! What are you supposed to be anyways? Vermin? Weed? Both?",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_mad",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "And what right do you have to call me that?",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_funny",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Seeing as it's coming from the guys who have an IQ below room temperate / 5.",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_angry_flipped",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_angry",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Ugh. You're so rude. Why are you still here?",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_angry",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "I was going to ask the same thing. WHY ARE YOU STILL HERE?!?!?!",
+                "sound": "piksound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_angrygun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Let me rectify that!!!",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        }
+    ]
+}

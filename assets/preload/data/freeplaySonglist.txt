@@ -1,0 +1,2 @@
+War Plant:tankwin:0:Easy,Normal,Hard:#FEB107
+Guns Remix:tankmin:1:Hard:#FEB107

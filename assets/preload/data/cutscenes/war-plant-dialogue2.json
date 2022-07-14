@@ -1,0 +1,927 @@
+{
+    "type": "dialogue",
+    "dialogueBox": "tankmin/tankBox",
+    "dialogueBoxFlips": false,
+    "dialogueBoxSize": 6,
+    "dialogueMusic": "gun-em-down",
+    "dialogueSections": [
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!!",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x2)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x3)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x4)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x5)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x6)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x7)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x8)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x9)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x10)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x11)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x12)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Wow. You just killed 12 of my soldiers.",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x13)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Make that 13.",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_hey",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "You know what, instead of batting people with a gun, how's bout we battle on the mic?",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_hmmm",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Hmmmmm......",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_exclamation",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Okay!",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_keen",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Let's see what you got!",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_neutral_flipped",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_neutral",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Don't worry sergeant.",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_angry_flipped",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_angry",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "We'll make sure to blast that little b**ch for you.",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_sad",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "No, you don't have to...",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmen_dead_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_gun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x14)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankmin_gun_flipped",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_dead",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "BOOM HEADSHOT!!!! (COMBO x15)",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_sad",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmen_very_happy_flipped",
+                "x": 0,
+                "y": 100,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "*sigh* Oh well. Let's just do this.",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_neutral",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Good. Oh and by the way.",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": false,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_neutral",
+                "x": 30,
+                "y": 50,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_angrygun",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "If any more of your poorly-mannered soldiers get on my nerves, or try to shoot me, I will blast them away.",
+                "sound": "shotsound",
+                "color": "#FF0000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        }
+    ]
+}

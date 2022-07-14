@@ -1,0 +1,246 @@
+{
+    "scriptName": "battlegrounds",
+    "character_Positions":[
+        [900, 600],
+        [0, 600],
+        [100, 550]
+    ],
+    "camera_Zoom": 0.8,
+    "objects": [
+        {
+            "position":[-650, -550],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankSky",
+            "is_Animated": false
+        },
+        {
+            "position":[-600, 0],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankMountains",
+            "is_Animated": false
+        },
+        {
+            "position":[-600, 0],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankRuins",
+            "is_Animated": false
+        },
+        {
+            "position":[-600, 0],
+             "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankBuildings",
+            "is_Animated": false
+        },
+        {
+            "position":[-600, -200],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankClouds",
+            "is_Animated": false
+        },
+        {
+            "position":[-600, -60],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankWatchtower",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "watchtower gradient color instance 1",
+                    "fps": 24,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "watchtower"
+        },
+        {
+            "position":[-200, 200],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankRolling",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "BG tank w lighting instance 1",
+                    "fps": 24,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "rollingTank"
+        },
+        {
+            "position":[-600, -200],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tankGround",
+            "is_Animated": false
+        },
+        {
+            "position":[2100, -100],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1.2,
+            "antialiased": true,
+            "file_Name": "tankmenCrew",
+            "is_Animated": false,
+            "object_Name": "train"
+        },
+        {
+            "position":[-550, -160],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "smokeLeft",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "smoke",
+                    "animation_name": "SmokeBlurLeft instance 1",
+                    "fps": 24,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "smoke"
+        },
+        {
+            "position":[820, -220],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "smokeRight",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "smoked",
+                    "animation_name": "SmokeRight instance 1",
+                    "fps": 24,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "smoked"
+        },
+        {
+            "position":[-650, 450],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tank0",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "tanky",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "tankman1"
+        },
+        {
+            "position":[-300, 620],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tank1",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "tanky",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "tankman2"
+        },
+        {
+            "position":[200, 540],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tank2",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "tanky",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "tankman3"
+        },
+        {
+            "position":[450, 620],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tank3",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "tanky",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "tankman4"
+        },
+        {
+            "position":[950, 500],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tank4",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "tanky",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "tankman5"
+        },
+        {
+            "position":[1280, 500],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "tank5",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bop",
+                    "animation_name": "tanky",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bop",
+            "object_Name": "tankman6"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankmin.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="5" y="5" width="346" height="484" frameX="-1" frameY="-10" frameWidth="348" frameHeight="494"/>
+	<SubTexture name="Idle0001" x="5" y="5" width="346" height="484" frameX="-1" frameY="-10" frameWidth="348" frameHeight="494"/>
+	<SubTexture name="Idle0002" x="361" y="5" width="345" height="487" frameX="-2" frameY="-7" frameWidth="348" frameHeight="494"/>
+	<SubTexture name="Idle0003" x="361" y="5" width="345" height="487" frameX="-2" frameY="-7" frameWidth="348" frameHeight="494"/>
+	<SubTexture name="Idle0004" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0005" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0006" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0007" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0008" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0009" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0010" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0011" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0012" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0013" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0014" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0015" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0016" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0017" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0018" x="716" y="5" width="348" height="494"/>
+	<SubTexture name="Idle0019" x="716" y="5" width="348" height="494"/>
+</TextureAtlas>

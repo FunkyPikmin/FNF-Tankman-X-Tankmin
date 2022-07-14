@@ -1,0 +1,26 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "tankmin-dead",
+    "spritesheetType": "SPARROW",
+    "animations": [
+        {
+            "name": "firstDeath",
+            "animation_name": "dying",
+            "fps": 12,
+            "looped": false
+        },
+        {
+            "name": "deathLoop",
+            "animation_name": "deathloop",
+            "fps": 12,
+            "looped": true
+        },
+        {
+            "name": "deathConfirm",
+            "animation_name": "retry",
+            "fps": 12,
+            "looped": false
+        }
+    ]
+}

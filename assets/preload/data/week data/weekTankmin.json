@@ -1,0 +1,24 @@
+{
+    "groupName": "Tankman X Tankmin",
+    "pathName": "piktank",
+    "weeks": [
+        {
+            "imagePath": "tankmin",
+            "songs": [
+                "War Plant"
+            ],
+            "characters": [
+                "tankman",
+                "",
+                "tankmin"
+            ],
+            "weekTitle": "New Recruit",
+            "backgroundColor":[255, 255, 255],
+            "difficulties": [
+                ["easy", "piktank/easy"],
+                ["normal", "piktank/normal"],
+                ["hard", "piktank/hard"]
+            ]
+        }
+    ]
+}

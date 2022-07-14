@@ -1,0 +1,145 @@
+{
+    "type": "dialogue",
+    "dialogueBox": "tankmin/tankBox",
+    "dialogueBoxFlips": false,
+    "dialogueBoxSize": 6,
+    "dialogueMusic": "peace-in-war",
+    "dialogueSections": [
+        {
+            "side": "left",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_keen",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_happy",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Yo, that was sick! Good job!",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_keen",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_happy",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Thanks! So did I get the job?",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "left",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_keen",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_happy",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "You sure did! Look forward to seeing you tomorrow!",
+                "sound": "tanksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        },
+        {
+            "side": "right",
+            "showOtherPortrait": true,
+            "leftPortrait": {
+                "sprite": "tankmin/tankman_keen",
+                "x": 30,
+                "y": 30,
+                "antialiased": true
+            },
+            "rightPortrait": {
+                "sprite": "tankmin/tankmin_happy",
+                "x": 0,
+                "y": 50,
+                "antialiased": true
+            },
+            "has_Hand": false,
+            "dialogue": {
+                "text": "Okay, see ya!",
+                "sound": "piksound",
+                "color": "#000000",
+                "shadowColor": "#000000",
+                "font": "pixel.otf",
+                "hasShadow": true,
+                "size": 32,
+                "box_Offset": [160,120],
+                "text_Delay": 0.04,
+                "shadowOffset": 2
+            },
+            "box_FPS": 24,
+            "open_Box": false,
+            "box_Antialiased": false,
+            "box_Anim": "box",
+            "box_Open": "box"
+        }
+    ]
+}

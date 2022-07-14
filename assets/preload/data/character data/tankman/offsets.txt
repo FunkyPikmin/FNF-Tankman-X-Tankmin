@@ -1,0 +1,7 @@
+idle 0 0
+singRIGHT -10 -20
+singDOWN 60 -93
+singLEFT 70 -15
+singUP 34 50
+singUP-alt -17 -9
+prettygood 0 16

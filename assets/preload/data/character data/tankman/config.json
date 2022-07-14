@@ -1,0 +1,51 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "tankmanCaptain",
+    "spritesheetType": "SPARROW",
+    "barColor":  [0, 0, 0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Tankman Idle Dance instance 1",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Tankman Right Note instance 1",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Tankman DOWN note instance 1",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Tankman UP note instance 1",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP-alt",
+            "animation_name": "TANKMAN UGH instance 1",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "prettygood",
+            "animation_name": "PRETTY GOOD tankman instance 1",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Tankman Note Left instance 1",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}
